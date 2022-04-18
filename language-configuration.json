@@ -1,0 +1,26 @@
+{
+    "comments": {
+        "lineComment": "!",
+    },
+    "folding": {
+        "markers": {
+          "start": "^\\s*!\\s*#?section\\b",
+          "end": "^\\s*!\\s*#?endsection\\b"
+        }
+      },
+      "capabilities" : {
+        "hoverProvider" : "true",
+        "completionProvider" : {
+          "resolveProvider": "true",
+          "triggerCharacters": [ " " ]
+        }
+       // "signatureHelpProvider" : {
+        //  "triggerCharacters": [ " " ]
+        //},
+       // "completionProvider" : {
+         // "resolveProvider": "true",
+        //  "triggerCharacters": [ "." ]
+        //}
+      },
+
+}
